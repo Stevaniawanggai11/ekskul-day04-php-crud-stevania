@@ -1,1 +1,2 @@
-# ekskul-day04-php-crud-stevania
+# ekskul-day03-php-crud-janzen
+Learn PHP CRUD. GitHub Branch
